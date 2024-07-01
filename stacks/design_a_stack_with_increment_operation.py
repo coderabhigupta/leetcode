@@ -1,5 +1,5 @@
 # 1381. Design a Stack With Increment Operation
-# Link: https://leetcode.com/problems/daily-temperatures
+# Link: https://leetcode.com/problems/design-a-stack-with-increment-operation/description/
 
 from typing import List
 
